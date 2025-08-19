@@ -1,6 +1,6 @@
 # Aircraft Info Search
 
-A Python program to scrape and search ICAO aircraft type designator data.
+Python tools to collect and query ICAO aircraft type designator information from publicly available web sources.
 
 This project includes:
 
