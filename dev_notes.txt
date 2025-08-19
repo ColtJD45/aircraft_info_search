@@ -1,0 +1,5 @@
+Search options working well.
+More testing for obscure aircraft types 
+Add UI for ability to search on a web app
+Add optional photos of aircraft
+Add aircraft performance characteristics for more used aircraft types.
